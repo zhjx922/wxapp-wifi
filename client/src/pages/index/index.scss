@@ -1,0 +1,38 @@
+.z-center {
+  display:flex;
+  justify-content: center;
+}
+
+.z-center-parent {
+  position: relative;
+  height: 140px;
+}
+
+.z-components-main {
+  padding-top: 50px;
+}
+
+.z-margin {
+  margin-top: 14px;
+}
+
+.z-text {
+  height: 140px;
+  line-height: 140px;
+  font-size: 36rpx;
+  text-align: center;
+  display: block;
+}
+
+.z-color-success {
+  color: #29B26A;
+}
+
+.z-color-error {
+  color: #FF4949;
+}
+
+.my-modal-content.at-modal__content {
+  min-height: 20rpx;
+  text-align: center;
+}

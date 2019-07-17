@@ -1,0 +1,14 @@
+/* 改变主题变量，具体变量名可查看 taro-ui/dist/style/variables/default.scss 文件 */
+$color-brand: #29B26A;
+/* 引入 Taro UI 默认样式 */
+/* @import "~taro-ui/dist/style/index.scss"; */
+@import "~taro-ui/dist/style/components/flex.scss";
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/loading.scss";
+@import "~taro-ui/dist/style/components/activity-indicator.scss";
+@import "~taro-ui/dist/style/components/modal.scss";
+@import "~taro-ui/dist/style/components/form.scss";
+@import "~taro-ui/dist/style/components/input.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+@import "~taro-ui/dist/style/components/switch.scss";
+@import "~taro-ui/dist/style/components/toast.scss";
